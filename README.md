@@ -2,25 +2,27 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/a1f65ad4-dd09-4dcb-a70e-c17e65b54f22
+**URL**: https://code-heist-aidc.vercel.app/
+----
+## About🚀
 
-## How can I edit this code?
+Heartclutch is a cardiac wellness app by empowering young and middle-aged individuals with real-time, AI-driven heart health insights — turning passive wearable data into active, life-saving decisions
 
-There are several ways of editing your application.
+-----
+**Why  Heartclutch?💙🤍**
+ - Heart attacks among young and middle-aged adults (25–45) are rising sharply due to stress, poor lifestyle, and lack of preventive monitoring. Despite using wearables, users fail to act on early warning signs because data remains unprocessed and fragmented.
+There’s an urgent need for a smart, unified system that analyzes wearable health data and offers real-time, actionable insights to prevent cardiac emergencies.
+-----
+**Features**
+🗃️ AI insight reports: A weekly electronically generated report wrapping up your heart health🧠 Smart Risk Predictor: collects data , analyzes trends and uses ML to predict cardiac arrest.
+⚠️ Real-Time-Alerts: Instant alerts , sends notification and alert emergency contacts and nearby medical services.
+📊 Heart Health Dashboard: Interactive and clean visualized data through charts and graphs over time.
+.
+🤖 AI chatbot: Checkup over unhealthy pattern , healthy heart tips , emotionally emphasizing chatbot for people to cope with emotional distress.
+👨‍👩‍👧‍👦 Family- Community: Add your family members and track their heart health
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/a1f65ad4-dd09-4dcb-a70e-c17e65b54f22) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+------
+# How to run the project locally:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -36,21 +38,7 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## Tech Stack
 
 This project is built with:
 
@@ -60,14 +48,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a1f65ad4-dd09-4dcb-a70e-c17e65b54f22) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+----
+Made to protect 💗 by Code_heist
