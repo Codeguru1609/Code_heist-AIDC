@@ -40,11 +40,10 @@ npm run dev
 # Tech Stack🪛
 This project is built with:
 
-Vite
-TypeScript
-React
-shadcn-ui
-Tailwind CSS
+- Vite
+- TypeScript
+- React
+- Tailwind CSS
 ----
 
 Made to protect 💗 by Code_heist
