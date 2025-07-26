@@ -27,7 +27,7 @@
 git clone https://github.com/Codeguru1609/Code_heist-AIDC.git
 
 # Step 2: Navigate to the project directory.
-cd heartclutch
+cd <PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
 npm i
