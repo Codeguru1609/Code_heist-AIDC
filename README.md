@@ -5,11 +5,13 @@
 ----
 # About🚀
 
-Heartclutch is a cardiac wellness app by empowering young and middle-aged individuals with real-time, AI-driven heart health insights — turning passive wearable data into active, life-saving decisions
+- Heartclutch is a cardiac wellness app by empowering young and middle-aged individuals with real-time, AI-driven heart health insights — turning passive wearable data into active, life-saving decisions
 ----
 # Why Heartclutch?💙🤍
 
-Heart attacks among young and middle-aged adults (25–45) are rising sharply due to stress, poor lifestyle, and lack of preventive monitoring. Despite using wearables, users fail to act on early warning signs because data remains unprocessed and fragmented. There’s an urgent need for a smart, unified system that analyzes wearable health data and offers real-time, actionable insights to prevent cardiac emergencies.
+- Heart attacks among young and middle-aged adults (25–45) are rising sharply due to stress, poor lifestyle, and lack of preventive monitoring.
+-  Despite using wearables, users fail to act on early warning signs because data remains unprocessed and fragmented.
+- There’s an urgent need for a smart, unified system that analyzes wearable health data and offers real-time, actionable insights to prevent cardiac emergencies.
 -----
 # Features 🗃️ 
 - AI insight reports: A weekly electronically generated report wrapping up your heart health
